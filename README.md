@@ -1,1 +1,1 @@
-# TO-DO-LIST The To-Do List App is a simple, interactive task manager built using Python. It helps users organize tasks efficiently with basic operations like adding, viewing, completing, and removing tasks. The tasks are saved in a JSON file, allowing persistence between sessions.
+# TO-DO-LIST <br> The To-Do List App is a simple, interactive task manager built using Python. It helps users organize tasks efficiently with basic operations like adding, viewing, completing, and removing tasks. The tasks are saved in a JSON file, allowing persistence between sessions.
